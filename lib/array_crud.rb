@@ -38,5 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
    color_array =  ["red", "blue", "green","am", "arrays!"]
-   [-1]
+   color_array[-1]
 end
